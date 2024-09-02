@@ -64,6 +64,7 @@ This project demonstrates the effectiveness of the Hilbert-Huang Transform in an
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Acknowledgments
+Thanks to the `Baosteel R%D Department` for sharing the datasets. Special thanks to Dr. Yu Yan (Baosteel Co.), Dr. He Fei(Hefei University of Technology) for mentoring.
 
 Special thanks to the contributors of the `PyHHT` and `PyEMD` libraries for providing tools that made this analysis possible.
 
