@@ -54,22 +54,6 @@ Traditional Fourier-based methods often fall short when dealing with signals whe
 - `signal_data.csv`: Example dataset used for the analysis.
 - `README.md`: This file, explaining the project’s background, methods, and insights.
 
-## Usage
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/timeseries-hht-analysis.git
-    ```
-   
-2. **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the analysis**:
-    ```bash
-    python signal_analysis.py
-    ```
 
 ## Conclusion
 
