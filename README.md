@@ -52,6 +52,7 @@ Traditional Fourier-based methods often fall short when dealing with signals whe
 
 - `signal_analysis.py`: Python script containing the code for the entire analysis.
 - `21837-3ZT.xlsx` and `21837-4ZT.xlsx`: Example dataset used for the analysis.
+- `wavelet-klz.pdf`: example output, lab report
 - `README.md`: This file, explaining the project’s background, methods, and insights.
 
 
