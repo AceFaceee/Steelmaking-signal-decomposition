@@ -51,7 +51,7 @@ Traditional Fourier-based methods often fall short when dealing with signals whe
 ## Files
 
 - `signal_analysis.py`: Python script containing the code for the entire analysis.
-- `signal_data.csv`: Example dataset used for the analysis.
+- `21837-3ZT.xlsx` and `21837-4ZT.xlsx`: Example dataset used for the analysis.
 - `README.md`: This file, explaining the project’s background, methods, and insights.
 
 
